@@ -1,0 +1,2 @@
+local strikee = game.ServerStorage.CustomQuirk.AttackStorage.tony.punchhit
+strikee:SetPrimaryPartCFrame(HRT.CFrame*CFrame.new(0,0,0)*CFrame.Angles(math.rad(math.random(360, 360)), math.rad(math.random(360, 360)), math.rad(math.random(360, 360)))
